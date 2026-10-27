@@ -16,6 +16,3 @@ I used a dark background because I think it's nice and easy to read. I used blue
 
 ## Website code
 HTML and CSS files are included.
-
-## Create a public link to your page
-To be added with GitHub Pages.
